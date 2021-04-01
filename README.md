@@ -2,3 +2,7 @@
 
 readme do repositório.
 instruçoes abaixo.
+
+
+Informação nova:
+Sorteio!!!!
